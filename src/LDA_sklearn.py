@@ -19,7 +19,6 @@ from utils.logger import Logger
 from utils.ship_geometry import R
 
 
-#変えました
 #
 N_PRCSS = 2
 #
